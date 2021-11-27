@@ -30,11 +30,11 @@
 
 * Predictions and bounding boxes not so much accurate but it's fast
 
-![person](https://user-images.githubusercontent.com/81680367/143621767-c88ab98a-be70-464d-94a6-038c1c0a88e1.jpg)
+![person](https://user-images.githubusercontent.com/81680367/143678243-d5578b06-6b96-4739-9c0f-eba6d9d7b74b.png)
 
-![dog](https://user-images.githubusercontent.com/81680367/143621898-fec95b39-d236-49e8-9754-1f5be0019829.jpg)
+![dog](https://user-images.githubusercontent.com/81680367/143678251-fa51ab97-662d-4677-ba5b-435d4ced0ab0.png)
 
-![horses](https://user-images.githubusercontent.com/81680367/143621906-70fc479c-3e02-4ce5-89d7-9e8c0f4519c6.jpg)
+![horses](https://user-images.githubusercontent.com/81680367/143678256-29fa574a-523a-4c00-8a3f-e791516c7004.png)
 
 
 **Note**: predicted objects is around defined class names so it can not predict out of this such as below image
